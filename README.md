@@ -32,7 +32,7 @@
 <a href="https://github.com/search?q=user%3AQwagPerson+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
-
+<p>
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013143?logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
 <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-F7931E?logo=scikitlearn&logoColor=white">
@@ -41,3 +41,4 @@
 <img alt="Django" src="https://img.shields.io/badge/Django-499848?logo=django&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=white">
+</p>
